@@ -1,1 +1,1 @@
-# AndrewDamesPortfolio bilt using typescript & React
+# Andrew Dames Portfolio built using typescript & React
